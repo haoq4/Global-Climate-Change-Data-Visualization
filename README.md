@@ -2,6 +2,8 @@
 
 This application provides a comprehensive visualization of global climate change data. The goal is to make climate change trends accessible and understandable to a non-technical audience by offering interactive visualizations of global temperature changes and precipitation patterns.
 
+**[Check out the deployed app here!](https://global-climate-change-data-visualization-6vnoaqpfmwz87umw9iryn.streamlit.app/)**
+
 ## Table of Contents
 
 - [Background](#background)
