@@ -39,5 +39,5 @@ def plot_temperature_heatmap(dataframe, year):
     sns.heatmap(temp_pivot, annot=True, cmap='coolwarm', cbar=True)
     plt.title(f'{year} Temperature Distribution Heatmap by Month')
     plt.xlabel('Month')
-    plt.ylabel('Temperature (F)')
+    plt.ylabel('Temperature (°C)')
     return plt
